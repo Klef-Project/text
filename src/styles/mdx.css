@@ -1,0 +1,27 @@
+.title{
+    font-size: 2em;
+    border-bottom: 4px solid #4f46e5;
+    padding: 1px;
+    margin: 1px;
+}
+
+.section {
+    font-size: 1.7em;
+    border-bottom: 3px dashed #4f46e5;
+    margin: 1px;
+    padding: 1px;
+}
+
+html{
+    padding: 1px;
+    margin: 2px;
+    @apply w-full
+}
+
+p {
+    margin: 2px;
+}
+
+Link {
+    @apply border-b-2 border-dashed border-sky-300 text-sky-400
+}
