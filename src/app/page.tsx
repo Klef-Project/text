@@ -3,6 +3,6 @@ import { Info } from "@/components/info";
 
 export default function Home() {
   return (
-    <Info>Sample<br />Text</Info>
+    <p>Comming Soon...</p>
   );
 }
