@@ -49,7 +49,7 @@ jobs:
             exit 1
           fi
       - name: Setup Node
-        uses: pnpm/action-setup@v9,
+        uses: pnpm/action-setup@v4.0.0,
               actions/setup-node@v4
         with:
           node-version: "20"
