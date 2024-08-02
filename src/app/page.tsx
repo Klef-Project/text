@@ -1,5 +1,5 @@
-import Image from "next/image";
 import { Info } from "@/components/info";
+import "@/styles/mdx.css"
 
 export default function Home() {
   return (
